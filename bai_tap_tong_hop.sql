@@ -1,4 +1,4 @@
-CREATE DATABASE bttnh_database;
+CREATE DATABASE btth_database;
 USE btth_database; 
 
 -- Xoa bang
